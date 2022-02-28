@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Right Honourable the Lords and Commons assembled in Parliament, at VVestminster. The humble petition of the knights, gentry, clergy, and commonalty of the county of Kent, subscribed by the grand iury, the 11th of May 1648. at the sessions of the iudges, upon a speciall commission of oyer and terminer, then executed at the Castle of Canterbury for the sayd county.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94659</idno>
+            <idno type="STC">Wing T1687</idno>
+            <idno type="STC">Thomason E441_25</idno>
+            <idno type="STC">ESTC R203944</idno>
+            <idno type="EEBO-CITATION">99863711</idno>
+            <idno type="PROQUEST">99863711</idno>
+            <idno type="VID">115922</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94659)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115922)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E441[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Right Honourable the Lords and Commons assembled in Parliament, at VVestminster. The humble petition of the knights, gentry, clergy, and commonalty of the county of Kent, subscribed by the grand iury, the 11th of May 1648. at the sessions of the iudges, upon a speciall commission of oyer and terminer, then executed at the Castle of Canterbury for the sayd county.</title>
+                  <author>Wilding, Anthony.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>A2v-3r contains a declaration against the petition by the deputy-lieutenants of Kent, 16 May 1648, signed by Anthony Wilding and ten others. Also includes: The petitioners vindication and answer to the Deputy-Lievtenants declaration against the sayd petition.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kent (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:115922:1"/>
+            <head>To the Right Honourable the Lords and Commons Aſſembled in Parliament, at <hi>VVESTMINSTER.</hi>
+            </head>
+            <head type="sub">The humble PETITION OF THE Knights, Gentry, Clergy, and Com<g ref="char:EOLhyphen"/>monalty of the County of <hi>Kent,</hi> ſub<g ref="char:EOLhyphen"/>ſcribed by the Grand Iury, the 11<hi rend="sup">th</hi> of <hi>May</hi> 1648. at the Seſsions of the Iud<g ref="char:EOLhyphen"/>ges, upon a ſpeciall Commiſsion of <hi>Oyer</hi> and <hi>Terminer,</hi> then executed at the Caſtle of <hi>Canterbury</hi> for the ſayd County.</head>
+            <opener>
+               <pb n="2" facs="tcp:115922:2"/> Sheweth:</opener>
+            <p>
+               <hi>THat the deepe ſence of our owne miſeries with a Fellow feeling of the diſcontents of other Coun<g ref="char:EOLhyphen"/>ties expoſed to the like ſufferings, prevayleth with us thus humbly to preſent to your Honours theſe our ardent deſires.</hi>
+            </p>
+            <p n="1">1. THAT our moſt gratious Soveraigne Lord King CHARLES, may with all ſpeed he admitted in ſafety and Honour, to Treat in perſon with his two Houſes of Parliament, for the perfect ſetling of the Pence both of Church and Common Wealth, as alſo of his owne juſt rights, together with thoſe of Parliament.</p>
+            <p n="2">2. That for prevention and removall of the manifold in<g ref="char:EOLhyphen"/>conveniencies occaſioned by the continuance of the preſent Army, under the Command of the Lord <hi>Fairfax,</hi> their ar<g ref="char:EOLhyphen"/>rears may forthwith be Audited and they disbanded.</p>
+            <p n="3">3. That according to the Fundamentall Conſtitution of this Common Wealth, we may for the future, be governed and judged by (the Engliſh Subjects undoubted birth-right) the knowne and eſtabliſhed Lawes of the Kingdome, and not otherwiſe.</p>
+            <p n="4">
+               <pb n="3" facs="tcp:115922:2"/>4. That according to the Petition of Right, our properly may not be invaded by any Taxes or Impoſitions whatſoe<g ref="char:EOLhyphen"/>ver, and particularly that the heavy burthen of Exciſe may no longer be continued, or hereafter impoſed upon us.</p>
+            <p>All which our earneſt deſires, we humbly recommend to your grave and ſerious conſiderations; not doubting of that ſpeedy ſatisfaction therein, which the caſe requires, and we humbly expect: Whereby we may well hope to ſee (what otherwiſe we cannot but deſpayre of) a ſpeedy and happy end of theſe ſad and heavy preſſures and di<g ref="char:EOLhyphen"/>ſtempers, whoſe continuance will inevitably ruine both our ſelves and our poſterities; your timely prevention whereof by a cheerefull condeſcent to what we heer pro<g ref="char:EOLhyphen"/>pound in order thereunto, ſhall oblige us ever to pray &amp;c.</p>
+         </div>
+         <div type="declaration_against_petition">
+            <pb n="4" facs="tcp:115922:3"/>
+            <head>
+               <hi>By the Deputy-Lievtenants of the County of</hi> Kent, <hi>the City and County of</hi> Canter<g ref="char:EOLhyphen"/>bury, <hi>at their generall meeting at</hi> Maid<g ref="char:EOLhyphen"/>ſtone, <hi>the 10. of May 1648.</hi>
+            </head>
+            <p>VVHereas we underſtand that divers perſons have given out, that they intend to aſſemble themſelves towards the latter end of this moneth, or the beginning of the next, at ſeverall daies and places, upon pretence to carry a Petition to the Parlia<g ref="char:EOLhyphen"/>ment, which doth concerne matter againſt the authority of both Houſes, and tendeth to the raiſing of Seditions and tumults with<g ref="char:EOLhyphen"/>in this County, we having lately received a ſpeciall command from the Houſe to uſe our beſt endeavours to preſerve the peace of the County do hereby in order thereunto, adviſe all whom it may concerne, to forbeare all occaſions of publique diſturbance by any ſuch tumultuous aſſembling of themſelves, and from rai<g ref="char:EOLhyphen"/>ſing of parties and factions againſt the Parliament, upon this or any pretence whatſoever; and if any well affected Perſons have beene abuſed and miſled ſo as to ſigne and procure hands to any ſuch ſeditious paper under the name of a Petition, and upon falſe giving out that the Deputy Lievetenants of this County do ap<g ref="char:EOLhyphen"/>prove therof, to the end that ſuch well meaning perſons may be undeceived, we having ſeene a C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>py of the ſayd pretended Peti<g ref="char:EOLhyphen"/>tion, doe heereby ſignifie our utter deteſtation of ſuch ſeditious practiſes, and do adviſe all well-wiſhers to their Countrys peace, to take heede therof, and to counſell and perſwade their Neigh<g ref="char:EOLhyphen"/>bours accordingly: And if any pretended Coppies of ſuch pre<g ref="char:EOLhyphen"/>tended Petition come unto, or be in their hands, to deliver up the ſame unto the next Deputy Lievtenant: And we do hereby re<g ref="char:EOLhyphen"/>quire the Miniſters of the ſeverall Pariſhes publiquely to reade this ſignification in their Pariſh Churches upon the next Lords Day after the receipt heereof, immediately before they begin their Morning Sermon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and the Churchwardens of the ſeverall Pariſh<g ref="char:EOLhyphen"/>es are heereby required the next day after the time appointed, for
+<pb n="5" facs="tcp:115922:3"/> the ſaid publication to certifie wh<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hath beene done therein, un<g ref="char:EOLhyphen"/>der their hands un<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the next Deputy Liev<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enant; who is hereby direct<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d forthwith to tranſmit the ſaid Certificate unto the ſtanding Committee at Maidſton, that ſo notice may be taken what Miniſters and Churchwardens, or other perſons do their du<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies therein: And ſuch as ſhall be found wilfully faulty may be proceeded againſt accordingly.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Anthony Wilding.</item>
+                     <item>Iohn Rivers.</item>
+                     <item>Richard Lee.</item>
+                     <item>Thomas Lewis.</item>
+                     <item>Ga. Oxinden.</item>
+                     <item>Rich. Beale.</item>
+                     <item>Tho. Seyliard.</item>
+                     <item>Law. Godfrey.</item>
+                     <item>Win. Iames.</item>
+                     <item>Io. Bix. </item>
+                     <item>William Kenioraſh.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>To the Mayor of <hi>Graveſend,</hi> who is here<g ref="char:EOLhyphen"/>by required to cauſe Proclamation hereof to be made in open market next day after the receite hereof in the height of the Market, by the common Cryer, and afterwards to deliver it to the Miniſter of the ſaid Pariſh, to reade it in the Churches, as aboveſaid.</p>
+            </postscript>
+         </div>
+         <div type="response_to_declaration">
+            <pb n="6" facs="tcp:115922:4"/>
+            <head>The Petitioners Vindication and Anſwer to the Deputy-Lievtenants Declaration againſt the ſayd Petition.</head>
+            <p>VVEE the Knights, Gentry, Clergy, and Commonal<g ref="char:EOLhyphen"/>ty of the County of <hi>Kent,</hi> who have ſubſcribed, and doe intend to preſent, the reall Petition (which is abuſively called a pretended one, and a ſeditious paper) to the Honou<g ref="char:EOLhyphen"/>rable the Lords and Commons aſſembled in Parliament at Weſtminſter, according to the juſt Rights and Priviledges of the Subjects of England, in purſuance of the ſubſcripti<g ref="char:EOLhyphen"/>ons of the Grand Jury of our County the 11. of May 1648. (who are and ought to be the repreſenters of the ſence of our County) have taken notice of a late Order or Declaration of th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Lievtenants of our County of the 16. of May 1648. <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ending to the diſcountenance and ſuppreſſing of our ſayd Petition; and untruly charging the ſame to contayne matter againſt the Authority of both Houſes, (to whom it is addreſſed) and the Petitioners to be rayſers of ſedition and tumults. In a deepe ſence whereof, and indignation of ſuch falſe ſcandalls impoſed on us, we doe declare to the world.</p>
+            <p>That the matter of our Petition, contaynes in it nothing but what is juſt and fit for free borne Subjects to demand, and tends to the preſerving of the Peace, not onely of our County, but of the whole Kingdome.</p>
+            <p>And the maner of our inten<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions to proſecute the ſame, ſhall be ſo peaceable (on our parts) as ſhall not give occaſion of tumults or publicke diſturbance.</p>
+            <pb n="7" facs="tcp:115922:4"/>
+            <p>We doe proteſt againſt rayſing any factions againſt the Parliament, to whom we addreſſe our ſelves for a juſt relief of ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> grievances: in purſuance of the right of Subjects, and their owne Ordinances, and (our deſires being ſo juſt, and our intentions ſo peaceable) wee muſt declare, that (not<g ref="char:EOLhyphen"/>withſtanding all the menacing threats publiſhed to our diſ<g ref="char:EOLhyphen"/>couragemen) we ſhall go on to proſecute our juſt rights and deſires, in ſuch a way as ſhall neyther render us guilty of ſe<g ref="char:EOLhyphen"/>dition, or publike diſturbance, nor of betraying our ſelves to the violence of ſuch who ſhall unjuſtly endeavour to op<g ref="char:EOLhyphen"/>poſe us.</p>
+            <p>And we doe deſire all perſons of our County, well affe<g ref="char:EOLhyphen"/>cted to the ſayd Petition, not to be diſcouraged from the juſt proſecution thereof, upon any threats or orders whatſoever. Our intention being (if it ſhall pleaſe God ſo to diſpoſe of us) to ſacrifice our lives and fortunes in the proſecution of thoſe our juſt rights and deſires.</p>
+            <p>We have not a deſire to deceive any, nor have we endea<g ref="char:EOLhyphen"/>voured to miſlead any with pretending the Deputy Lievte<g ref="char:EOLhyphen"/>nants of our Counties approbation of our Petition. Nor doe we deſire any to joyne with us, but thoſe whoſe reaſon and conſcience dictate to themſelves the ſence of our Petition.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
